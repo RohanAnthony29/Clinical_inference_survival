@@ -1,4 +1,4 @@
-# Clinical Causal Inference & Survival Analysis
+# Clinical Inference & Survival Analysis
 ### Evaluating Drug B vs Drug A in Diabetic Patients
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
